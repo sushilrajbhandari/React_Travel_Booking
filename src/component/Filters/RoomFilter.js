@@ -21,7 +21,7 @@ class RoomFilter extends Component{
     render(){
         return(
             <React.Fragment>
-                <strong>Room Type</strong>
+                <strong>Search by Room Type</strong>
                 <div onChange={this.filterRoom}>
                     <label className="radio">
                         <input type="radio" value="" name="room"/>All 
