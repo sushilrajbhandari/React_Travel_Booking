@@ -32,13 +32,13 @@ class CostFilter extends Component{
                         <input type="radio" value="1000,3000" name="room"/>1000-3000
                     </label>
                     <label className="radio">
-                        <input type="radio" value="3001,6000" name="room"/>3001-6000
+                        <input type="radio" value="3001,5000" name="room"/>3001-5000
                     </label>
                     <label className="radio">
-                        <input type="radio" value="6001,9000" name="room"/>6001-9000
+                        <input type="radio" value="5001,7000" name="room"/>5001-7000
                     </label>
                     <label className="radio">
-                        <input type="radio" value="9001,20000" name="room"/>9001-20000
+                        <input type="radio" value="7001,9000" name="room"/>7001-9000
                     </label>
                 </div>
             </React.Fragment>
